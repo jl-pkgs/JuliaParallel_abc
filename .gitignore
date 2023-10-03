@@ -1,1 +1,3 @@
 .vscode
+*.zarr
+tmp
